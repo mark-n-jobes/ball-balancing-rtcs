@@ -1,0 +1,7 @@
+For the WiiRemote shit to work:
+sudo apt-get install bluez-utils libbluetooth-dev
+ (plus the files in the sketch ofcorse)
+
+For the Keyboard/HID stuff to work (i.e. Arduino Device Firmware Update (DFU)):
+(the needed hex files and instructions are in the HID_Keyboard_Repeater sketch folder)
+
